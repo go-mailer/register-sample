@@ -33,6 +33,7 @@ func (this *RegisterController) Post() {
 	if err := this.ParseForm(&reg); err != nil {
 		panic(err)
 	}
+	beego.Debug(reg)
 	err := this.sendEmail(reg)
 	if err != nil {
 		panic(err)
@@ -66,7 +67,7 @@ func (this *RegisterController) sendEmail(reg models.Register) error {
 	msg := &send.Message{
 		Subject: "Beego邮箱验证范例",
 		Content: buf,
-		To:      fmt.Sprintf("%s <%s>", reg.Name, reg.Email),
+		To:      []string{reg.Email},
 	}
 	err = sender.AsyncSend(msg, false, func(err error) {
 		if err != nil {
