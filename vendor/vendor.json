@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "0iVTvFJg7tsRLJ9D7Gyn61vFfoE=",
+			"path": "github.com/astaxie/beego",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "rQn8zl27p0XLUUI0UCWdQs7WmYY=",
+			"path": "github.com/astaxie/beego/config",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "CqTJyI2ZtKkC6KnYY5QsDkk47T8=",
+			"path": "github.com/astaxie/beego/context",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "7hA38bO7ntELUuMQ7svkw77H6wo=",
+			"path": "github.com/astaxie/beego/grace",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "e/ixIxO/URZioWyukzSWRWRV1xs=",
+			"path": "github.com/astaxie/beego/logs",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "m5xWZpWkkoYHZsLNukJYXI/xwQ8=",
+			"path": "github.com/astaxie/beego/session",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "Mu2lA5Jq0tRk9MjhWllyzcJD6KU=",
+			"path": "github.com/astaxie/beego/toolbox",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "liO1EDN3Es5s8iswsyoYiG8YJ5s=",
+			"path": "github.com/astaxie/beego/utils",
+			"revision": "fbb98fbe1fe5f6a4209772b44e2547714992340c",
+			"revisionTime": "2016-01-27T02:13:30Z"
+		},
+		{
+			"checksumSHA1": "xTJfRrpx+x4EhIQtQ19f7KpsMns=",
+			"path": "github.com/go-mailer/send",
+			"revision": "2a2a55dd927dc57e30cd9c15f4d8f9174a1a8411",
+			"revisionTime": "2016-04-15T15:18:48Z"
+		},
+		{
+			"checksumSHA1": "wGS9UL7xY8FRSTKJ03jcD4vYPlk=",
+			"path": "github.com/go-mailer/validate",
+			"revision": "d58deb23dbc7d237c2cc2424a1d49fb2fd2f74b7",
+			"revisionTime": "2016-04-15T05:06:32Z"
+		},
+		{
+			"checksumSHA1": "oRwH/nnDrW+Ptm0JxegFVD8lAIQ=",
+			"path": "gopkg.in/LyricTian/lib.v1",
+			"revision": "239827ef41b6beaf9d687e92dc70710fd0243412",
+			"revisionTime": "2016-04-18T03:02:33Z"
+		}
+	],
+	"rootPath": "github.com/go-mailer/register-sample"
+}
